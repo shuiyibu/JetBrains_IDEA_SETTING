@@ -1,0 +1,9 @@
+<templateSet group="USER_XML">
+  <template name="bean" value="&lt;bean id=&quot;$id$&quot; class=&quot;$REF$&quot; /&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="REF" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

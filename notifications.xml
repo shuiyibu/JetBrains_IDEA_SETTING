@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Enable google-java-format" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>
