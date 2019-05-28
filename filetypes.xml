@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="新增依赖包" type="PLAIN_TEXT" />
+      <mapping pattern="20190528" type="SQL" />
     </extensionMap>
   </component>
 </application>
