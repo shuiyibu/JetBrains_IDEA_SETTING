@@ -30,13 +30,9 @@
           <option name="url" value="git@gitee.com:crowntime/epos.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/shuiyibu/java_concurrency.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\user\Developer" />
+    <option name="cloneParentDir" value="$USER_HOME$/Developer/work/gitee" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
